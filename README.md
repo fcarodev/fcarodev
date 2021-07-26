@@ -1,19 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Felipe Caro
+### Web, Android & iOS Developer
 
-<!--
-**fcarodev/fcarodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Trust Technologies
-- 🌱 I’m currently learning ... Dagger Hilt
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ... Dagger Hilt & Jetpack Compose
+
+
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
